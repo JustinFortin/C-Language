@@ -1,0 +1,14 @@
+The word I read from FileRead.txt -> This
+The word I read from FileRead.txt -> is
+The word I read from FileRead.txt -> a
+The word I read from FileRead.txt -> line
+The word I read from FileRead.txt -> This
+The word I read from FileRead.txt -> is
+The word I read from FileRead.txt -> a
+The word I read from FileRead.txt -> second
+The word I read from FileRead.txt -> line
+The word I read from FileRead.txt -> This
+The word I read from FileRead.txt -> is
+The word I read from FileRead.txt -> a
+The word I read from FileRead.txt -> third
+The word I read from FileRead.txt -> line
